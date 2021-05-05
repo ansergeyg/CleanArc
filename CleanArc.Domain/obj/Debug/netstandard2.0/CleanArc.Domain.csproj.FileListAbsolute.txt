@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\bin\Debug\netstandard2.0\CleanArc.Domain.deps.json
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\bin\Debug\netstandard2.0\CleanArc.Domain.dll
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\bin\Debug\netstandard2.0\CleanArc.Domain.pdb
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.dll
+C:\Users\User\Documents\Code\CleanArc\CleanArc.Domain\obj\Debug\netstandard2.0\CleanArc.Domain.pdb

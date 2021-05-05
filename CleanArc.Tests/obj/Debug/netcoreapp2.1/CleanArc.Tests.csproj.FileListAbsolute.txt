@@ -1,0 +1,14 @@
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\CleanArc.Tests.deps.json
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\CleanArc.Tests.runtimeconfig.json
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\CleanArc.Tests.runtimeconfig.dev.json
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\CleanArc.Tests.dll
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\bin\Debug\netcoreapp2.1\CleanArc.Tests.pdb
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.csprojAssemblyReference.cache
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.AssemblyInfo.cs
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.dll
+c:\Users\User\Documents\Code\CleanArc\CleanArc.Tests\obj\Debug\netcoreapp2.1\CleanArc.Tests.pdb
